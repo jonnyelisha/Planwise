@@ -51,7 +51,8 @@ Tasks:
 1. Wake up by 7:00 AM every day
 2. Eat a nutritious breakfast
 3. Go for a 30-minute walk after lunch
-4. Limit social media use to 1 hour per day
+4. Limit social media use to 1 hour per day<img width="827" alt="Screenshot 2025-06-27 at 15 18 37" src="https://github.com/user-attachments/assets/cfbddc9c-d251-48ba-b1c3-b354cb0d0af0" />
+
 5. Read for 20 minutes before bed
 6. Go to sleep by 10:30 PM
 🔁 How It Works
